@@ -1,4 +1,6 @@
 # C_Code_Security
+MD5实现代码 C
+
 DES.C
 
 （1）	根据提供的用户名name=” HELLO”和口令password=”12345678”；
